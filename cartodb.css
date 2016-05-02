@@ -283,6 +283,17 @@ body {
   background-color: #2d3b42;
 }
 
-.reveal section img {
-  border:none;
+.reveal section img.noborder {
+  margin: 15px 0px;
+  background: none;
+  border: none;
+  box-shadow: none;
+}
+
+.reveal section .slide-title{
+  position: absolute;
+  left: -150px;
+  bottom: -500px;
+  padding: 25px;
+  background: rgba(45, 59, 66, 0.40);
 }
