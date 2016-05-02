@@ -1,9 +1,12 @@
 Mapas: explorando lo desconocido
 ===================================
 
-Jorge · [@xurxosanz](http://twitter.com/xurxosanz)
+Jorge Sanz · [@xurxosanz](http://twitter.com/xurxosanz)
 
 5 de mayo de 2016
+
+http://bit.ly/mapas-fernando-zobel
+
 ___
 
 ## Agenda
@@ -430,3 +433,11 @@ ___
 
 
 ---
+
+## Mapas: explorando lo desconocido
+
+![](imgs/aplausometro.gif)<!-- .element: class="noborder" style="width:40%;"-->
+
+## ¿Preguntas?
+
+http://bit.ly/mapas-fernando-zobel
