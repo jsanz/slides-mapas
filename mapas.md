@@ -233,7 +233,7 @@ ___
 ## Edad Media
 ___
 
-## Mapa de T en O
+## Mapa de T en O (S XII)
 
 ![](imgs/t-o-map.jpg)<!-- .element style="width:50%;"-->
 
@@ -246,7 +246,7 @@ el río Don. En el centro se situaba a Jerusalén y la O externa representa el
 mundo como un disco perfecto.
 ___
 
-## Mapa de T en O
+## Mapa de T en O (S XIV)
 
 ![](imgs/t-o-map-2.jpg)<!-- .element style="width:50%;"-->
 
@@ -261,6 +261,11 @@ ___
 ![](imgs/mattew-paris.jpg)<!-- .element style="width:40%;"-->
 
 [&raquo;](https://www.wikiwand.com/en/Matthew_Paris)
+
+
+Note:
+En esta época no era habitual utilizar los mapas para orientarse, habían muy
+pocos. Eran mucho más comunes las descripciones textuales para viajar.
 ___
 
 ## Mapa de Cresques (S XIV)<!-- .element class="slide-title" -->
@@ -268,7 +273,7 @@ ___
 
 Note:
 Abraham Cresques y su hijo recibieron el encargo de Juan I de Aragón de crear
-un Atlas del mundo conocido. [&raquo;](http://www.passion-histoire.net/viewtopic.php?f=52&t=35960)
+un Atlas del mundo conocido. [&raquo;](http://nsa33.casimages.com/img/2014/05/05/140505032218695807.png)
 ___
 
 ## Atlas de Ortelius (S XVI)<!-- .element class="slide-title" -->
@@ -276,7 +281,7 @@ ___
 
 Note:
 Este es considerado como el primer atlas moderno, con 70 mapas que cubrían
-el mundo explorado hasta entonces.
+el mundo explorado hasta entonces.[&raquo;](https://www.wikiwand.com/es/Theatrum_Orbis_Terrarum)
 ___
 
 ## Ortelius: Mapa de España<!-- .element class="slide-title" -->
