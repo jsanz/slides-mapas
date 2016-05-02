@@ -303,11 +303,35 @@ ___
 ![](imgs/cassini-paris.jpg)
 ___
 
-## S XIX y XX
+> En la época moderna los mapas se hicieron cada vez más precisos y baratos...
 
+<blockquote class="fragment">
+... y llegan de los mapas temáticos y la visualización de datos
+</blockquote>
 ___
 
-## Cómo se definió el metro
+## El mapa de minard
+
+![](imgs/minards_map.png)
+
+[&raquo;](https://www.wikiwand.com/es/Charles_Joseph_Minard)
+___
+
+### Antes de pasar a la cartografía  <br/> moderna una pausa
+
+![](imgs/pause.gif)<!-- .element: class="noborder" -->
+___
+
+## ¿Cómo se definió el metro?
+
+![](imgs/metro.png)<!-- .element style="width:60%;"-->
+
+Note: Tras la revolución francesa se desea descartar todos los sistemas de
+medidas basados en la tradición (codo, pie, yarda, legua, etc) y se desea
+definir un sistema que esté _atado a la realidad_, sin interpretación humana. Se
+decide que la nueva unidad de medida será igual a la 10 millonésima parte de la
+distancia entre el ecuador y el polo. ¡La historia de cómo se obtuvo esa medida
+finalmente da para otra sesión!
 
 ---
 
@@ -315,14 +339,94 @@ ___
 
 ___
 
+### ... hemos dado un salto ¡¡de doscientos años!! <!-- .element class="slide-title" -->
+<!-- .slide: data-background="imgs/loop.gif"-->
+___
+
+## Mapas oficiales
+
+Las administraciones públicas producen<br/> mapas de gran calidad. En España:
+
+* Instituto Geográfico Nacional: SIGNA, Atlas Nacional, IDEE, ...
+* Instituto Geológico Minero
+* Ministerios: Agricultura, Hacienda (Catastro), ..
+* Comunidades Autónomas
+* Confederaciones Hidrográficas
+
+Note:
+En cualquier país del primer mundo los gobiernos (del ayuntamiento al nacional)
+generan cartografía de calidad, siguiendo rigurosas normas y para todo tipo de
+fines, desde recaudar impuestos a estudiar la contaminación o la calidad de
+nuestras carreteras.
+___
+
 ## Google Maps
+<!-- .slide: data-background="imgs/google-maps.png" class="withbackground"-->
+
+* En 2005 revolucionan la distribución de cartografía
+* Cobertura y actualización según interés de Google
+* Servicios asociados:
+  * rutas, búsqueda de direcciones, Street View, ...
+* Dan apoyo a los programadores de <br/> aplicaciones web y móviles
+* ¿Qué pasa donde no le interesa a Google?<!-- .element: class="fragment" -->
+
+Note:
+Google lanzó hace ya 11 años un servicio de mapas que se ha convertido en el
+servicio de mapas más utilizado del mundo. Gracias a que hicieron sencillo tener
+mapas en cualquier web y aplicación de móviles ha hecho que hoy en día consumir
+mapas sea una actividad habitual en nuestras vidas.
+___
+
+<!-- .slide: data-background="imgs/osm.png" class="withbackground"-->
+
+## OpenStreetMap
+
+![](imgs/osm_logo.png)<!-- .element: class="noborder" style="width:20%;"-->
+
+* _La wikipedia de los mapas_
+* Elaborado y gestionado por voluntarios
+* Cualquiera puede colaborar
+  * ¡también vosotros!<!-- .element class="fragment" -->
+
+Note:
+Pero Google no deja de ser una empresa que se dirige por intereses comerciales.
+Hace ya también más de diez años surgió una iniciativa totalmente voluntaria
+para crear el mejor mapa del mundo. Es como la wikipedia pero para la cartografía
+y tiene colaboradores en todo el mundo que a diario contribuyen a ampliar y
+mejorar un mapa alternativo. ¡Todos podéis colaborar y mejorar el mapa!
+___
+
+## El equipo humanitario de OpenStreetMap
+
+![](imgs/hot_logo.png)<!-- .element: class="noborder" style="width:20%;"-->
+
+* Ante un desastre la comunidad se moviliza
+* Se utilizan herramientas especiales para coordinarse <!-- .element class="fragment" -->
+* Miles de colaboradores mapeando a la vez para ayudar <!-- .element class="fragment" -->
+
+Note:
+https://hotosm.org/
+___
+
+### Mapatón para ayudar al terremoto de Ecuador<!-- .element class="slide-title" -->
+<!-- .slide: data-background="imgs/mapping-ecuador.jpg""-->
+
+Note:
+https://www.flickr.com/photos/xurxosanz/26478732772/in/datetaken/
 
 ___
 
-## OSM
-___
+## Y mucho más
 
-## Internet
+* Hay una gran industria alrededor<br/> de la información geográfica<!-- .element class="fragment" -->
+* Los mapas nunca han estado tan<br/> presentes en nuestras vidas<!-- .element class="fragment" -->
+* Gracias a:<!-- .element class="fragment" -->
+  * ¡¡GPS!!<!-- .element class="fragment" -->
+  * Conexión en cualquier lugar<!-- .element class="fragment" -->
+  * Móviles (+pantalla, +potencia)<!-- .element class="fragment" -->
+
+
+
 
 ---
 

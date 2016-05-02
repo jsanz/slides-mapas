@@ -297,3 +297,8 @@ body {
   padding: 25px;
   background: rgba(45, 59, 66, 0.40);
 }
+
+.reveal .slides section.withbackground{
+  padding: 25px;
+  background: rgba(45, 59, 66, 0.90);
+}

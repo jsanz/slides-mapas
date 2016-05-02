@@ -26,6 +26,8 @@ http://jsanz.github.io/slides-mapas/
 - [Perro WAT](http://giphy.com/gifs/fpXxIjftmkk9y)
 - [Confundido](http://giphy.com/gifs/hip-hop-1995-coolio-rQPRCclTBVyU0)
 - [Aburrimiento](http://giphy.com/gifs/disney-bored-tired-NWg7M1VlT101W)
+- [Paused](http://eincomic.blogspot.com.es/2012/11/game-paused.html)
+- [Time Loop](http://giphy.com/gifs/holes-implosion-kurzgesagt-IXy5Gfu7fz5AY)
 
 ### Sin usar
 
