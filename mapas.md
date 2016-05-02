@@ -317,14 +317,16 @@ ___
 </blockquote>
 ___
 
-## El mapa de minard
+## La visualización de Minard
 
 ![](imgs/minards_map.png)
+
+> Ya no es solo un mapa, ¡es algo más! <!-- .element: class="fragment" -->
 
 [&raquo;](https://www.wikiwand.com/es/Charles_Joseph_Minard)
 ___
 
-### Antes de pasar a la cartografía  <br/> moderna una pausa
+### Antes de pasar a la cartografía  <br/> moderna una pausa geodésica
 
 ![](imgs/pause.gif)<!-- .element: class="noborder" -->
 ___
