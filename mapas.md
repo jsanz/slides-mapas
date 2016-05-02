@@ -292,6 +292,8 @@ ___
 ## Mapa de Joan Blaeu (S XVII) <!-- .element class="slide-title" -->
 <!-- .slide: data-background="imgs/blaeu.jpg"-->
 
+Note:
+TODO
 ___
 
 ## Mapas de Cassini (S XVIII) <!-- .element class="slide-title" -->

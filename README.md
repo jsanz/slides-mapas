@@ -21,6 +21,32 @@ http://jsanz.github.io/slides-mapas/
 - Ayudas: [leyenda](http://ocean.floridamarine.org/boating_guides/florida_keys/products/interactive_maps/Middle_Keys_Side_A.html), [cuadrícula](http://hubpages.com/education/Materials-and-Directions-for-Teaching-Latitude-and-Longitude-With-Battleship-Game), [escala](http://www.outdoorblueprint.com/read/how-to-read-a-topographic-map/), [norte](http://www.clker.com/clipart-white-compass-rose-24.html), [cajetín](http://dtandina.blogspot.com.es/2014/08/cajetin-y-angulos.html)
 - Sobre el norte: [mapas al sur](http://www.odt.org/southupmaps.htm),[al oeste](http://brightside.me/article/what-the-world-looks-like-to-different-people-as-shown-by-seven-utterly-fascinating-maps-44505/), [con este arriba](https://www.wikiwand.com/en/Bianco_world_map), [cómo el mundo acabó con el norte arriba](http://america.aljazeera.com/opinions/2014/2/maps-cartographycolonialismnortheurocentricglobe.html), [upside down map](https://xkcd.com/1500/) y [dragones](https://en.uit.no/forskning/forskningsgrupper/gruppe?p_document_id=344565)
 
+### Historia
+
+* [Mapamundi babilonio](https://www.wikiwand.com/en/Babylonian_Map_of_the_World)
+* [Mapa de las Islas Marshall](https://www.reddit.com/r/MapPorn/comments/1cgcqb/stick_chart_used_by_polynesian_seafarers_to/)
+* [Mapa de T en O](https://es.wikipedia.org/wiki/Mapa_de_T_en_O)
+* [Matthew of Paris](https://www.wikiwand.com/en/Matthew_Paris)
+* [El Atlas Catalán](http://nsa33.casimages.com/img/2014/05/05/140505032218695807.png)
+* [El teatro del mundo](https://www.wikiwand.com/es/Theatrum_Orbis_Terrarum)
+* [El mapa de Francia](http://www.davidrumsey.com/blog/2009/10/11/national-survey-of-france-1750-1815)
+* [La visualización de Minard](https://www.wikiwand.com/es/Charles_Joseph_Minard)
+
+### Mapas en 2016
+
+* Mapas oficiales en España
+
+  * [SIG Nacional](http://signa.idee.es/signa/)
+  * [Infraestructura de Datos Espaciales de España](http://idee.es/)z
+  * [Atlas Nacional de España](http://www.fomento.gob.es/MFOM/LANG_CASTELLANO/DIRECCIONES_GENERALES/INSTITUTO_GEOGRAFICO/ATLAS/)
+  * [Catastro](http://www.catastro.meh.es/)
+  * [Cartografía Geológica del IGME](http://info.igme.es/visorweb/)
+
+* [OpenStreetMap](http://osm.org)
+* [Equipo Humanitario HOT](http://hotosm.org)
+
+### Ejemplos que me gustan
+
 ### Gifs
 
 - [Perro WAT](http://giphy.com/gifs/fpXxIjftmkk9y)
