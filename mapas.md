@@ -89,12 +89,16 @@ ___
 ___
 
 ## Elementos: contenido
+
+Note:
+**TODO**
 ___
 
 ### Puntos<!-- .element class="slide-title" -->
 <!-- .slide: data-background="imgs/elements-points.png"-->
 
 Note:
+**TODO**
 [&raquo;](https://team.cartodb.com/u/piensaenpixel/viz/a3b27bb6-5b80-11e5-b5f5-0e4fddd5de28/public_map)
 ___
 
@@ -102,6 +106,7 @@ ___
 <!-- .slide: data-background="imgs/elements-lines.png"-->
 
 Note:
+**TODO**
 [&raquo;](http://flightroutes.geographica.gs/)
 ___
 
@@ -109,6 +114,7 @@ ___
 <!-- .slide: data-background="imgs/elements-polygons.png"-->
 
 Note:
+**TODO**
 [&raquo;](https://observatory.cartodb.com/viz/2efcbf5c-080a-11e6-ac50-0e31c9be1b51/public_map)
 ___
 
@@ -116,6 +122,7 @@ ___
 <!-- .slide: data-background="imgs/elements-texts.png"-->
 
 Note:
+**TODO**
 [&raquo;](http://maps.stamen.com/toner/#17/40.07427/-2.13282)
 ___
 
@@ -127,6 +134,9 @@ ___
 ![](imgs/elements-legend.jpg)
 
 [&raquo;](http://ocean.floridamarine.org/boating_guides/florida_keys/products/interactive_maps/Middle_Keys_Side_A.html)
+
+Note:
+**TODO**
 ___
 
 ### Cuadrícula
@@ -134,6 +144,9 @@ ___
 ![](imgs/elements-graticule.jpg)
 
 [&raquo;](http://hubpages.com/education/Materials-and-Directions-for-Teaching-Latitude-and-Longitude-With-Battleship-Game)
+
+Note:
+**TODO**
 ___
 
 ### Escala
@@ -141,6 +154,9 @@ ___
 ![](imgs/elements-scale.png)
 
 [&raquo;](http://www.outdoorblueprint.com/read/how-to-read-a-topographic-map/)
+
+Note:
+**TODO**
 ___
 
 ### Cajetín
@@ -148,6 +164,9 @@ ___
 ![](imgs/elements-box.jpg)
 
 [&raquo;](http://dtandina.blogspot.com.es/2014/08/cajetin-y-angulos.html)
+
+Note:
+**TODO**
 ___
 
 ### ¿Dragones?
@@ -155,6 +174,9 @@ ___
 ![](imgs/dragones.jpg)
 
 [&raquo;](https://en.uit.no/forskning/forskningsgrupper/gruppe?p_document_id=344565)
+
+Note:
+**TODO**
 ___
 
 ### Norte
@@ -163,6 +185,8 @@ ___
 
 [&raquo;](http://www.clker.com/clipart-white-compass-rose-24.html)
 
+Note:
+**TODO**
 ___
 
 ### Un momento
@@ -172,6 +196,7 @@ ___
 <!-- .slide: data-background="imgs/sideb.jpg"-->
 
 Note:
+**TODO**
 [&raquo;](http://www.odt.org/southupmaps.htm)
 ___
 
@@ -179,6 +204,7 @@ ___
 <!-- .slide: data-background="imgs/west-east.jpg"-->
 
 Note:
+**TODO**
 [&raquo;](http://brightside.me/article/what-the-world-looks-like-to-different-people-as-shown-by-seven-utterly-fascinating-maps-44505/)
 ___
 
@@ -293,7 +319,7 @@ ___
 <!-- .slide: data-background="imgs/blaeu.jpg"-->
 
 Note:
-TODO
+**TODO**
 ___
 
 ## Mapas de Cassini (S XVIII) <!-- .element class="slide-title" -->
@@ -416,6 +442,7 @@ ___
 * Miles de colaboradores mapeando a la vez para ayudar <!-- .element class="fragment" -->
 
 Note:
+**TODO**
 https://hotosm.org/
 ___
 
@@ -423,6 +450,7 @@ ___
 <!-- .slide: data-background="imgs/mapping-ecuador.jpg""-->
 
 Note:
+**TODO**
 https://www.flickr.com/photos/xurxosanz/26478732772/in/datetaken/
 
 ___
