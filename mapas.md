@@ -1,5 +1,5 @@
-Mapas
-============
+Mapas: explorando lo desconocido
+===================================
 
 Jorge · [@xurxosanz](http://twitter.com/xurxosanz)
 
