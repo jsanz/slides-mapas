@@ -4,15 +4,14 @@ Mapas: explorando lo desconocido
 Jorge · [@xurxosanz](http://twitter.com/xurxosanz)
 
 5 de mayo de 2016
-
 ___
 
 ## Agenda
 
-* Qué es un mapa: elementos, realidad y ficción, propósito
-* Historia: protomapas, edad media, s. XIX y XX (historia del metro)
-* Mapas en 2016: Google Maps, OSM, Internet
-* Ejemplos de mapas (de las ráfagas)
+* Qué es un mapa
+* Algunos mapas históricos interesantes
+* La cartografía en 2016
+* Ejemplos de mapas que me gustan
 
 ---
 
@@ -425,12 +424,9 @@ ___
   * Conexión en cualquier lugar<!-- .element class="fragment" -->
   * Móviles (+pantalla, +potencia)<!-- .element class="fragment" -->
 
-
-
-
 ---
 
-# Ejemplos
+# Ejemplos de mapas que me gustan
 
 
 ---
