@@ -6,7 +6,7 @@ Instituto de Secundaria Fernándo Zóbel (Cuenca).
 
 http://jsanz.github.io/slides-mapas/
 
-## Créditos
+## Créditos y enlaces para saber más
 
 ### Introducción
 
@@ -35,13 +35,11 @@ http://jsanz.github.io/slides-mapas/
 ### Mapas en 2016
 
 * Mapas oficiales en España
-
   * [SIG Nacional](http://signa.idee.es/signa/)
   * [Infraestructura de Datos Espaciales de España](http://idee.es/)z
   * [Atlas Nacional de España](http://www.fomento.gob.es/MFOM/LANG_CASTELLANO/DIRECCIONES_GENERALES/INSTITUTO_GEOGRAFICO/ATLAS/)
   * [Catastro](http://www.catastro.meh.es/)
   * [Cartografía Geológica del IGME](http://info.igme.es/visorweb/)
-
 * [OpenStreetMap](http://osm.org)
 * [Equipo Humanitario HOT](http://hotosm.org)
 
