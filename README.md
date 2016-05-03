@@ -12,7 +12,7 @@ http://jsanz.github.io/slides-mapas/
 
 - [Mapa catastral](http://sclcountysurveyor.blogspot.com.es/2012/10/cadastral-maps-and-county-grid-numbers.html)
 - [Tube map](https://tfl.gov.uk/maps/track/tube)
-- [Cartograma](http://www.esri.com/news/arcuser/0110/cartograms.html)
+- [Cartograma](http://www.viewsoftheworld.net/)
 - [Cartógrafos de los 70](http://secondat.blogspot.com.es/2010/07/george-and-agnes.html)
 - [Sim City](http://www.playnation.de/spiele-news/simcity/community-verlangt-nach-groesseren-maps-id46796.html)
 - [Game of Thrones](http://www.mediumscreen.com/2013/03/game-of-thrones-le-trone-de-fer.html)
@@ -29,8 +29,9 @@ http://jsanz.github.io/slides-mapas/
 * [Matthew of Paris](https://www.wikiwand.com/en/Matthew_Paris)
 * [El Atlas Catalán](http://nsa33.casimages.com/img/2014/05/05/140505032218695807.png)
 * [El teatro del mundo](https://www.wikiwand.com/es/Theatrum_Orbis_Terrarum)
+* [Atlas Maior](https://www.wikiwand.com/en/Atlas_Maior)
 * [El mapa de Francia](http://www.davidrumsey.com/blog/2009/10/11/national-survey-of-france-1750-1815)
-* [La visualización de Minard](https://www.wikiwand.com/es/Charles_Joseph_Minard)
+* [La visualización de Minard](https://robots.thoughtbot.com/analyzing-minards-visualization-of-napoleons-1812-march)
 
 ### Mapas en 2016
 
