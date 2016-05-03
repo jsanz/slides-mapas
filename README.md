@@ -15,7 +15,7 @@ http://jsanz.github.io/slides-mapas/
 - [Cartograma](http://www.viewsoftheworld.net/)
 - [Cartógrafos de los 70](http://secondat.blogspot.com.es/2010/07/george-and-agnes.html)
 - [Sim City](http://www.playnation.de/spiele-news/simcity/community-verlangt-nach-groesseren-maps-id46796.html)
-- [Game of Thrones](http://www.mediumscreen.com/2013/03/game-of-thrones-le-trone-de-fer.html)
+- [Game of Thrones](http://sermountaingoat.co.uk/map/index.php)
 - [Cartografía Inuit](https://decolonialatlas.wordpress.com/2016/04/12/inuit-cartography/)
 - Elementos: [puntos](https://team.cartodb.com/u/piensaenpixel/viz/a3b27bb6-5b80-11e5-b5f5-0e4fddd5de28/public_map), [líneas](http://flightroutes.geographica.gs/), [polígonos](https://observatory.cartodb.com/viz/2efcbf5c-080a-11e6-ac50-0e31c9be1b51/public_map) y [textos](http://maps.stamen.com/toner/#17/40.07427/-2.13282)
 - Ayudas: [leyenda](http://ocean.floridamarine.org/boating_guides/florida_keys/products/interactive_maps/Middle_Keys_Side_A.html), [cuadrícula](http://hubpages.com/education/Materials-and-Directions-for-Teaching-Latitude-and-Longitude-With-Battleship-Game), [escala](http://www.outdoorblueprint.com/read/how-to-read-a-topographic-map/), [norte](http://www.clker.com/clipart-white-compass-rose-24.html), [cajetín](http://dtandina.blogspot.com.es/2014/08/cajetin-y-angulos.html)

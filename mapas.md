@@ -78,9 +78,9 @@ Note:
 O en tres dimensiones, creados sobre la marcha mientras juegas en Interent
 ___
 
-![](imgs/got.png)
+![](imgs/got.jpg)<!-- .element style="width:60%;"-->
 
-[&raquo;](http://www.mediumscreen.com/2013/03/game-of-thrones-le-trone-de-fer.html)
+[&raquo;](http://sermountaingoat.co.uk/map/index.php)
 
 Note:
 Y por supuesto de mundos completamente imaginarios
@@ -539,38 +539,13 @@ ___
   * Satélites de Observación de la Tierra<!-- .element class="fragment" -->
 ---
 
-# Ejemplos de mapas que me gustan
+# Algunos mapas que me gustan
 
 ___
 
 ## [Suecia en Minecraft](http://www.lantmateriet.se/en/Maps-and-geographic-information/Maps/oppna-data/oppna-data-i-minecraft/)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CIqvn02F648" frameborder="0" allowfullscreen></iframe>
-___
-
-## [EarthWindMap](http://earth.nullschool.net/#current/wind/surface/level/orthographic=-20.47,22.12,491)
-
-![](imgs/sel/earthwindmap.png)
-___
-
-## [Peligro de Sharknado](https://dl.dropboxusercontent.com/u/17180596/GlobalSharknadoThreat.png)
-
-![](imgs/sel/sharknado.png)
-___
-
-## [Here & there](http://berglondon.com/products/hat/)
-
-![](imgs/sel/uptown.jpg)<!-- .element: style="width:35%;"-->
-___
-
-## [Dymaxion](http://www.bfi.org/about-bfi/what-we-do/exhibitions/dymax-redux)
-
-![](imgs/sel/dymaxion.jpg)
-___
-
-## [Paula Scher](http://www.pentagram.com/#/partners/109681)
-
-![](imgs/sel/scher.jpg)
 ___
 
 ## [Manon Boisseau](http://geotribu.net/node/843)
@@ -583,9 +558,39 @@ ___
 ![](imgs/sel/population-density.jpg)
 ___
 
+## [EarthWindMap](http://earth.nullschool.net/#current/wind/surface/level/orthographic=-20.47,22.12,491)
+
+![](imgs/sel/earthwindmap.png)
+___
+
+## [Peligro de Sharknado](https://dl.dropboxusercontent.com/u/17180596/GlobalSharknadoThreat.png)
+
+![](imgs/sel/sharknado.png)
+___
+
 ## [Visión cómica de Europa](http://mapdesign.icaci.org/map-examples/)
 
 ![](imgs/sel/waters.jpg)<!-- .element: style="width:65%;"-->
+___
+
+## [Here & there](http://berglondon.com/products/hat/)
+
+![](imgs/sel/uptown.jpg)<!-- .element: style="width:35%;"-->
+___
+
+## [Dymaxion](http://www.bfi.org/about-bfi/what-we-do/exhibitions/dymax-redux)
+
+![](imgs/sel/dymaxion.jpg)<!-- .element: style="width:85%;"-->
+___
+
+## [Paula Scher](http://www.pentagram.com/#/partners/109681)
+
+![](imgs/sel/scher.jpg)<!-- .element: style="width:85%;"-->
+___
+
+## [Globos Bellerby](https://www.instagram.com/p/8mVvkbBOp6/)
+
+![](imgs/sel/bellerby.jpg)<!-- .element: style="width:50%;"-->
 
 ---
 
