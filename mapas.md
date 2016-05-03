@@ -558,6 +558,14 @@ ___
 ![](imgs/sel/population-density.jpg)
 ___
 
+## [Mapa de papel](https://team.cartodb.com/u/mamataakella/viz/83b900d2-7e6c-11e5-90a0-0ea31932ec1d/public_map)
+
+<iframe width='100%' height='520' frameborder='0'
+	src='https://team.cartodb.com/u/mamataakella/viz/83b900d2-7e6c-11e5-90a0-0ea31932ec1d/embed_map'
+	allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen>
+</iframe>
+___
+
 ## [EarthWindMap](http://earth.nullschool.net/#current/wind/surface/level/orthographic=-20.47,22.12,491)
 
 ![](imgs/sel/earthwindmap.png)
