@@ -6,12 +6,12 @@
     <meta name="apple-mobile-web-app-capable" content="yes" />
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
-    <link rel="stylesheet" href="http://lab.hakim.se/reveal-js/css/reveal.css">
+    <link rel="stylesheet" href="./reveal-js/css/reveal.css">
     <link rel="stylesheet" href="./cartodb.css" id="theme">
 
     <!-- If the query includes 'print-pdf', use the PDF print sheet -->
     <script>
-      document.write( '<link rel="stylesheet" href="http://lab.hakim.se/reveal-js/css/print/' + ( window.location.search.match( /print-pdf/gi ) ? 'pdf' : 'paper' ) + '.css" type="text/css" media="print">' );
+      document.write( '<link rel="stylesheet" href="./reveal-js/css/print/' + ( window.location.search.match( /print-pdf/gi ) ? 'pdf' : 'paper' ) + '.css" type="text/css" media="print">' );
     </script>
     <!--[if lt IE 9]>
       <script src="revealjs/lib/js/html5shiv.js"></script>
@@ -21,17 +21,16 @@
   <body>
     <div class="reveal">
       <div class="slides">
-        <section data-markdown="mapas.md"
-                 data-separator="^---"
-                 data-separator-vertical="^___"
-                 data-charset="utf-8"
-                 data-notes="^Note:">
+        <section data-markdown="mapas.md"  
+                 data-separator="^---"  
+                 data-vertical="^___"  
+                 data-notes="^Note:"  
+                 data-charset="utf-8">
         </section>
       </div>
     </div>
-
-    <script src="http://lab.hakim.se/reveal-js/lib/js/head.min.js"></script>
-    <script src="http://lab.hakim.se/reveal-js/js/reveal.js"></script>
+    <script src="./reveal-js/lib/js/head.min.js"></script>
+    <script src="./reveal-js/js/reveal.min.js"></script>
 
     <script>
       Reveal.initialize({
@@ -42,16 +41,14 @@
         history: true,
         center: true,
         slideNumber: true,
-        theme: Reveal.getQueryHash().theme, // available themes are in /css/theme
-        transition: Reveal.getQueryHash().transition || 'convex', // default/cube/page/concave/zoom/linear/fade/none
         // Optional libraries used to extend on reveal.js
         dependencies: [
-          { src: 'http://lab.hakim.se/reveal-js/lib/js/classList.js', condition: function() { return !document.body.classList; } },
-          { src: 'http://lab.hakim.se/reveal-js/plugin/markdown/marked.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
-          { src: 'http://lab.hakim.se/reveal-js/plugin/markdown/markdown.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
-          { src: 'http://lab.hakim.se/reveal-js/plugin/highlight/highlight.js', async: true, callback: function() { hljs.initHighlightingOnLoad(); } },
-          { src: 'http://lab.hakim.se/reveal-js/plugin/zoom-js/zoom.js', async: true, condition: function() { return !!document.body.classList; } },
-          { src: 'http://lab.hakim.se/reveal-js/plugin/notes/notes.js', async: true, condition: function() { return !!document.body.classList; } }
+          { src: './reveal-js/lib/js/classList.js', condition: function() { return !document.body.classList; } },
+          { src: './reveal-js/plugin/markdown/marked.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+          { src: './reveal-js/plugin/markdown/markdown.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+          { src: './reveal-js/plugin/highlight/highlight.js', async: true, callback: function() { hljs.initHighlightingOnLoad(); } },
+          { src: './reveal-js/plugin/zoom-js/zoom.js', async: true, condition: function() { return !!document.body.classList; } },
+          { src: './reveal-js/plugin/notes/notes.js', async: true, condition: function() { return !!document.body.classList; } }
         ]
       });
     </script>
